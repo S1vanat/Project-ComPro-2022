@@ -39,7 +39,6 @@ void loop() {
 ```
 ## ตัวแจ้งเตือน
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ตัวเเจ้งเตือนนั้จะสามารถมีกี่ตัวก็ได้ถ้าต้องการให้เเจ้งเตือนจากตัววัดอุณหภูมิตัวเดียวกัน
- <br>&nbsp;
 ![report](img/report.jpg)
 ```cpp
 void setup() {
