@@ -4,8 +4,9 @@
 
 ชื่อโครงงานภาษาไทย : เครื่องเเจ้งเตือนอุณหภูมิระยะไกล
 <br>ชื่อโครงงานภาษาอังกฤษ : Long range temperature signaller
-<br>ชื่อผู้จัดทำ :	นายอัคภพ คุณกิตติ 64070117
-<br>		นายศิวนาถ  ธิศาเวช 64070236
+<br>ชื่อผู้จัดทำ :
+<br>  นายอัคภพ คุณกิตติ 64070117
+<br>		นายศิวนาถ ธิศาเวช 64070236
 <br>		นายจิรภัทร ณ สงขลา 64070013
 <br>ปีการศึกษา : 2564
 <br>สถานที่ศึกษา : สถาบันเทคโนโลยีพระจอมเกล้าเจ้าคุณทหารลาดกระบัง
@@ -75,6 +76,10 @@ void loop() {
   client.loop();
 }
 ```
+## คลิปวิดีโอสาธิต
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; https://youtu.be/ltUG97QJGn8
+
+
 ## แบบจำลองวงจร
    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://wokwi.com/projects/330908529583981138 (ตัวแจ้งเตือน)
  <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;https://wokwi.com/projects/330908346752172626 (ตัววัดอุณหภูมิ)
