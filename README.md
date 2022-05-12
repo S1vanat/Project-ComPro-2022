@@ -52,7 +52,7 @@ void loop() {
 }
 ```
 ## ตัวแจ้งเตือน
- <br>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ตัวเเจ้งเตือนนั้นจะสามารถมีกี่ตัวก็ได้ ถ้าต้องการให้เเจ้งเตือนจากตัววัดอุณหภูมิตัวเดียวกัน
+ &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;ตัวเเจ้งเตือนนั้นจะสามารถมีกี่ตัวก็ได้ ถ้าต้องการให้เเจ้งเตือนจากตัววัดอุณหภูมิตัวเดียวกัน
 ![report](img/report.jpg)
 ```cpp
 void setup() {
